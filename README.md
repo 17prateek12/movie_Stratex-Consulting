@@ -9,3 +9,6 @@ Just Clone the Repo and run npm i then npm Start
 3. Redux
 4. Tailwind CSS
 5. React Icon
+
+
+Demo Video https://www.loom.com/share/7f3c3d29878b4500995fc8bbb85252a7
